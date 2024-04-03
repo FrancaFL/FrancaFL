@@ -6,9 +6,9 @@
 - 😄 Pronouns: She/her
 - ⚡ <h3>Fun fact: 
 <ull>
-<li>Playin basket ball</li> 
-<li>I love Dancing</li>
-<li>Traveling and coding</li>
+<h4><li>Playin basket ball</li></h4>
+<h4><li>I love Dancing</li></h4>
+<h4><li>Traveling and coding</li></h4>
 </ull></h3>
 
 <!---
