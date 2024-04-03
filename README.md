@@ -2,9 +2,9 @@
 <h2>👀 I’m interested in web development</h2>
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project on web development.
-- 📫 How to reach me: jennyfranca74@gmail.com
+<h2>How to reach me: <h3>jennyfranca74@gmail.com</h3><h2>
 - 😄 Pronouns: She/her
-- ⚡ <h3>Fun fact: 
+<h3>Fun fact: 
 <ull>
 <h4><li>Playin basket ball</li></h4>
 <h4><li>I love Dancing</li></h4>
