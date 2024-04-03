@@ -1,10 +1,10 @@
- HI there👋 I’m @FrancaFL
+<h1>HI there👋 I’m Franca Lauscher</h1>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project on web development.
 - 📫 How to reach me: jennyfranca74@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: playin basket ball, dancing, traveling and coding.
 
 <!---
 FrancaFL/FrancaFL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
