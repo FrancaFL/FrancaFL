@@ -1,5 +1,5 @@
 <h1>HI there👋 I’m Franca Lauscher</h1>
-<h2>👀 I’m interested in web development</h2>
+<h2>👀 I’m interested in Web and App development</h2>
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project on web development.
 <h2>How to reach me: <h3>jennyfranca74@gmail.com</h3><h2>
